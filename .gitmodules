@@ -4,9 +4,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:jakeyvee/voltr-fe.git
-[submodule "program"]
-	path = program
-	url = git@github-metahaus:jakeyvee/voltr-program.git
 [submodule "agent-kit"]
 	path = agent-kit
 	url = https://github.com/voltrxyz/solana-agent-kit.git
+[submodule "program"]
+	path = program
+	url = git@github-metahaus:jakeyvee/voltr-program.git
